@@ -1,1 +1,1 @@
-# jenkins-development-pipeline
+# Jenkins Pipeline Demo Project
